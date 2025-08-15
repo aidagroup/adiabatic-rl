@@ -213,3 +213,11 @@ gz_*.log
 camera*.png
 # venv
 .venv*/
+
+# Project artifacts
+results/
+exp_*.log
+gz_*.log
+camera*.png
+# venv
+.venv*/
